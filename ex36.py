@@ -84,6 +84,7 @@ def fight_room():
             print "Baam right on the head. Vader falls to the Ground."
             print "You finally got that bastard!"
             plant_room()
+            
 
         else:
             print "No, wrong wrong wrong wrong wrong wrong"
