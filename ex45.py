@@ -245,6 +245,7 @@ class Finished(Scene):
 
     def enter(self):
         print "I don't know if you like what you got, but at least you got out alive ;)"
+        print "It's better then diying, trust me..."
         return 'finished'
 
 
